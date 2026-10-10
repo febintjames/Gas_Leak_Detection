@@ -1,0 +1,18 @@
+# Secrets: Firebase admin key + WiFi (never commit)
+**/secrets.h
+*firebase-adminsdk*.json
+
+# Build output and caches
+**/build/
+.dart_tool/
+**/.gradle/
+**/android/.kotlin/
+**/local.properties
+*.iml
+.idea/
+.vscode/
+.claude/
+
+# OS files
+Thumbs.db
+.DS_Store

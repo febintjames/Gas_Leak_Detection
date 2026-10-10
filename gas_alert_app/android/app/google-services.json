@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "288387622506",
+    "firebase_url": "https://gas-dectactor-default-rtdb.firebaseio.com",
+    "project_id": "gas-dectactor",
+    "storage_bucket": "gas-dectactor.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288387622506:android:a392c66c4c3032cf91cc13",
+        "android_client_info": {
+          "package_name": "com.gasdetector.gas_alert"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtgIDS-94fjBe8EUrpNgiD0wz_3JRDc88"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

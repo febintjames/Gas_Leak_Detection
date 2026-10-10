@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- GLD brand teal, used to tint notifications -->
+    <color name="gld_teal">#0F766E</color>
+</resources>
